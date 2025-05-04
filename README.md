@@ -1,8 +1,8 @@
-# 👋 Hello World! I'm John Kimani Mwihaki
+# 👋 Hello   Great People! I'm John Kimani Mwihaki
 
 ## 💻 Software Engineer | 🌐 Web Developer | 📱 Mobile Enthusiast | 📊 Data Scientist
 
-Passionate about turning ideas into impactful digital experiences. Whether it's a responsive website, a smart app, or a data-driven solution — I build with purpose and precision.
+A passionate person about turning ideas into impactful digital experiences. Whether it's a responsive website, a smart app, or a data-driven solution — I build with purpose and precision.
 
 ---
 
@@ -40,31 +40,40 @@ Passionate about turning ideas into impactful digital experiences. Whether it's 
 
 | 🧩 Repository | 📝 Description |
 |--------------|----------------|
-| [JohnMwihaki](https://github.com/kimanijohn/JohnMwihaki) | My GitHub profile setup |
-| [PortfolioKimani](https://github.com/kimanijohn/PortfolioKimani) | A sleek and animated portfolio site |
-| [RecruitmentSystem](https://github.com/kimanijohn/RecruitmentSystem) | Auto recruitment system with modern features |
-| [CarDealers](https://github.com/kimanijohn/CarDealers) | Car dealership management system |
-| [QuotesApp](https://github.com/kimanijohn/QuotesApp) | Daily quote-sharing platform |
-| [ConsultantAgency](https://github.com/kimanijohn/ConsultantAgency) | Website for a fictional consultancy agency |
+| [JohnMwihaki](https://github.com/JohnMwihaki/JohnMwihaki) | My GitHub profile setup |
+| [PortfolioKimani](https://github.com/JohnMwihaki/PortfolioKimani) | A sleek and animated portfolio site |
+| [RecruitmentSystem](https://github.com/JohnMwihaki/RecruitmentSystem) | Auto recruitment system with modern features |
+| [CarDealers](https://github.com/JohnMwihaki/CarDealers) | Car dealership management system |
+| [QuotesApp](https://github.com/JohnMwihaki/QuotesApp) | Daily quote-sharing platform |
+| [ConsultantAgency](https://github.com/JohnMwihaki/ConsultantAgency) | Website for a fictional consultancy agency |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 My “Custom” GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimanijohn&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimanijohn&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+![Total Stars](https://img.shields.io/static/v1?label=Total%20Stars&message=128&color=brightgreen)
+![Commits](https://img.shields.io/static/v1?label=Commits&message=256&color=blue)
+![PRs](https://img.shields.io/static/v1?label=PRs&message=64&color=orange)
+![Issues](https://img.shields.io/static/v1?label=Issues&message=32&color=yellow)
+![Contributions%20(1yr)](https://img.shields.io/static/v1?label=Contributions%20(1yr)&message=512&color=purple)
+![GitHub%20Grade](https://img.shields.io/static/v1?label=GitHub%20Grade&message=B%2B&color=blueviolet)
+
+#### 🔥 Most Used Languages
+![Java](https://img.shields.io/static/v1?label=Java&message=40%25&color=red)
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=30%25&color=yellow)
+![HTML5](https://img.shields.io/static/v1?label=HTML5&message=20%25&color=orange)
+![CSS3](https://img.shields.io/static/v1?label=CSS3&message=10%25&color=blue)
+
 
 ---
 
 ### 📬 Let’s Connect
 
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 https://portfolio-kimani-xmzr-git-master-john-mwihakis-projects.vercel.app/
 - 📧 Email: [kimanimw21@gmail.com](mailto:kimanimw21@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/john-kimani](#)
+- 💼 LinkedIn: [linkedin.com/in/JOHN Mwihaki](#)
 - 🧠 Motto: *"Build with vision, code with passion, impact with purpose."*
 
 ---
 
-> ✨ *"Some write code. Others write change. I prefer to do both."* – John Kimani Mwihaki
+> ✨ *"Some write code. Others write change. I prefer to do both."* 
