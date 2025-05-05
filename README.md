@@ -12,7 +12,7 @@ A passionate person about turning ideas into impactful digital experiences. Whet
 - 🧠 Currently diving deep into **Mobile Development** & **Full-Stack Engineering**  
 - 💡 Lover of creativity, animation, and elegant UI/UX  
 - 💼 Founder of *fmatric innovation group* — where tech meets identity  
-- 💬 Fluent in Java, JavaScript, Python, C++, PostgreSQL, HTML/CSS  
+- 💬 Fluent in Java, JavaScript, Python, C++, PostgreSQL,MYSQL,MongoDB HTML/CSS  
 - 🛠 Certified in Operating Systems, Data Science, Python & Hardware by Cisco  
 - 📝 I also write poetic code and code poetic lines 💖  
 
@@ -33,7 +33,7 @@ A passionate person about turning ideas into impactful digital experiences. Whet
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![javas](https://img.shields.io/open-vsx/v/:namespace/:extension)
+
 
 
 
