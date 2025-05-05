@@ -33,6 +33,9 @@ A passionate person about turning ideas into impactful digital experiences. Whet
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![javas](https://img.shields.io/open-vsx/v/:namespace/:extension)
+
+
 
 ---
 
